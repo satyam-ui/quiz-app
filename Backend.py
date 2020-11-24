@@ -1,6 +1,7 @@
 import mysql.connector
 import pdb
 
+# this is a new comment
 mydb = mysql.connector.connect(
     host="localhost", user="root", passwd="root", database="quiz_comp"
 )
