@@ -58,7 +58,7 @@ if choice == 2:
     mycursor.execute(sql_reg)
     print("participants are all updated")
     mydb.commit()
-
+# this was debugged by syan
 
 # TODO: make related score table also with session
 
